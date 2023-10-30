@@ -13,12 +13,12 @@ body {
     overflow-y: hidden;
 }
 
-div {
+section#phone {
     position: relative;
     width: 310px;
     height: 630px;
     margin: auto;
-    margin-top: 3%;
+    margin-top: 4%;
     background-color: transparent;
     background-image: url(../imagens/frame-iphone.png);
     background-repeat: no-repeat;
